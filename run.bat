@@ -1,3 +1,3 @@
 @echo off
 
-start cmd /k cargo xtask run
+start cmd /k cargo run --package xtask --
